@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240179708491",
+    "project_id": "thinkup-a64a3",
+    "storage_bucket": "thinkup-a64a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240179708491:android:be6f8d02fef00feb6503ce",
+        "android_client_info": {
+          "package_name": "com.example.thinkup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240179708491-ocvarcspvac41qjlsda5sj6l936rs4vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6MmTZ_bastTF614qT8srHrO_bocbaF-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240179708491-cek6a3dmmnlcog57ic3e01cjnk09me4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
